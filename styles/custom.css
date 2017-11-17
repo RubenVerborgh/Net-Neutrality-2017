@@ -21,6 +21,10 @@ p.venue {
   line-height: 1.33;
 }
 
+.toc.slide ul li {
+  font-style: italic;
+}
+
 q:before {
   content: "“";
 }
