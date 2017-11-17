@@ -1,0 +1,24 @@
+.shower .caption p {
+  margin-top: .5em;
+}
+.shower .caption h1 {
+  line-height: 1;
+}
+p.venue {
+  font-style: italic;
+  margin-bottom: 1em;
+}
+
+.shower .slide.title h3 {
+  font-weight: normal;
+  letter-spacing: -.5px;
+  font-size: 1.66em;
+  margin: -1.66em 0 1.66em;
+}
+
+q:before {
+  content: "“";
+}
+q:after {
+  content: "”";
+}
