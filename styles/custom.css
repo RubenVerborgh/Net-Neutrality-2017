@@ -1,9 +1,3 @@
-.shower .caption p {
-  margin-top: .5em;
-}
-.shower .caption h1 {
-  line-height: 1;
-}
 p.venue {
   font-style: italic;
   margin-bottom: 1em;
@@ -23,13 +17,6 @@ p.venue {
 
 .toc.slide ul li {
   font-style: italic;
-}
-
-q:before {
-  content: "“";
-}
-q:after {
-  content: "”";
 }
 
 .slide p.thanks {
