@@ -24,3 +24,8 @@ p.venue {
   font-style: italic;
   margin-top: 2.5em;
 }
+
+.twitter-tweet-rendered {
+  transform: scale(1.8) !important;
+  transform-origin: top left !important;
+}
