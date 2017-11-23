@@ -38,6 +38,10 @@ p.venue {
   padding-top: 0;
 }
 
+.slide blockquote.cover {
+  width: 70%;
+}
+
 .slide h2 q:only-child {
   font-style: italic;
 }
