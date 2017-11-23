@@ -29,3 +29,11 @@ p.venue {
   transform: scale(1.8) !important;
   transform-origin: top left !important;
 }
+
+.slide blockquote.tight {
+  padding-top: 0;
+}
+
+.slide h2 q {
+  font-style: italic;
+}
