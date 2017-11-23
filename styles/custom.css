@@ -30,10 +30,14 @@ p.venue {
   transform-origin: top left !important;
 }
 
+.slide blockquote {
+  padding-right: 0;
+}
+
 .slide blockquote.tight {
   padding-top: 0;
 }
 
-.slide h2 q {
+.slide h2 q:only-child {
   font-style: italic;
 }
